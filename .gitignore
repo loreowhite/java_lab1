@@ -5,6 +5,12 @@ target/
 !**/src/test/**/target/
 /target/
 /.idea/
+classes/
+maven-archiver/
+maven-status/
+surefire-reports/
+test-classes/
+*.jar
 ### STS ###
 .apt_generated
 .classpath
